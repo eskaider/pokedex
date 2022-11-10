@@ -38,10 +38,10 @@ body .container .card {
 
 body .container .card .box {
   position: absolute;
-  top: 30px;
-  left: 30px;
-  right: 30px;
-  bottom: 30px;
+  top: 25px;
+  left: 25px;
+  right: 25px;
+  bottom: 25px;
   background-image: radial-gradient(circle, #3d66a4, #3a60ac, #3e59b3, #4950b7, #5844b9);
   border-radius: 15px;
   display: flex;
@@ -86,4 +86,14 @@ body .container .card .box .content .h3 {
   margin-bottom: 15px;
 }
 
+.redes{
+  width: 25px;
+  height: 25px;
+  margin: 10px;
+}
 
+body .social{
+  display: flex;
+  position: absolute;
+  bottom: 0;
+}
